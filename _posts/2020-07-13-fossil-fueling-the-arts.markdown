@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The reason we're gathered here on our God-given, much-naeeded day
-tags: [frontpage, jekyll, blog]
+title: Fossil Fueling the Arts
+tags: [climate crisis, arts, blog]
 image: '/images/posts/8.jpg'
 ---
 
