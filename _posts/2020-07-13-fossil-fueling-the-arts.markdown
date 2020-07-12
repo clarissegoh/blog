@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fossil Fueling the Arts
-tags: [climate crisis, arts, blog]
 image: '/images/posts/8.jpg'
 ---
 
