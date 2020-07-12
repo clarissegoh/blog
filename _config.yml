@@ -11,7 +11,7 @@ email:       'clarissegoh24@gmail.com'
 description: ''
 baseurl:     '/blog' # The subpath of your site, e.g. /blog
 url:         'https://clarissegoh.github.io/' # The base hostname & protocol for your site
-linkedin: 'https://linked.com/clarissegoh'
+linkedin: 'https://linked.com/in/clarissegoh'
 twitter:     ''
 github:      'https://github.com/clarissegoh'
 instagram:   ''
